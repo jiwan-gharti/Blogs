@@ -1,0 +1,11 @@
+---
+title: "Post With Code"
+author: "Er. Jiwan Gharti"
+date: "2025-03-21"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+![](image.jpg)
+
+This is a post with executable code. `image`

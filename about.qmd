@@ -1,0 +1,19 @@
+---
+title: "Er. Jiwan Gharti"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/_jiwan_gharti_
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jiwan-gharti/
+    - icon: github
+      text: Github
+      href: https://github.com/jiwan-gharti
+
+---
+
+Jiwan Gharti, a software engineer, decodes complex tech shifts through his blog TechTonic Bytes. Like tectonic plates transforming landscapes, Jiwan examines fundamental changes in programming and emerging technologies. He breaks down complex concepts into digestible "bytes" of knowledge, bridging theory with practical applications that readers can immediately implement in their work.
