@@ -19,7 +19,6 @@ format:
   html:
     theme:
       - lux
-      - brand
     css: styles.css
 
 
