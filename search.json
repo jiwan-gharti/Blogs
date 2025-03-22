@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Er. Jiwan Gharti",
+    "section": "",
+    "text": "​In my role as a Senior Backend Developer at AZminds, I spearheaded the development of a comprehensive waste management system. This platform streamlined waste tracking, reporting, and regulatory compliance, significantly enhancing operational efficiency. By integrating advanced features such as role-based access control, Google Maps API for precise navigation, and robust reporting capabilities, the system optimized waste management processes and reduced operational costs.​\nAdditionally, I contributed to the creation of IP Author, an AI-driven patent drafting tool designed to expedite the patent application process. Leveraging generative AI technologies, IP Author swiftly generates essential patent components, including editable flowcharts and block diagrams, streamlining the drafting process and minimizing common pitfalls. This tool has been instrumental for patent law firms, enabling them to produce comprehensive drafts efficiently."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Er. Jiwan Gharti",
+    "section": "Work Experience",
+    "text": "Work Experience\nAZminds\nSenior Backend Developer\nApr 2023 – Present\nQuickfox Consulting\nBackend Developer\n2021 – 2023"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code. image"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TechTonic Bytes with Jiwan",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 21, 2025\n\n\nEr. Jiwan Gharti\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 18, 2025\n\n\nJiwan Gharti\n\n\n\n\n\n\nNo matching items"
+  }
+]
