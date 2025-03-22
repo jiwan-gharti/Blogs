@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Er. Jiwan Gharti",
+    "section": "",
+    "text": "Jiwan Gharti, a software engineer, decodes complex tech shifts through his blog TechTonic Bytes. Like tectonic plates transforming landscapes, Jiwan examines fundamental changes in programming and emerging technologies. He breaks down complex concepts into digestible “bytes” of knowledge, bridging theory with practical applications that readers can immediately implement in their work."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code. image"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TechTonic Bytes with Jiwan",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 21, 2025\n\n\nEr. Jiwan Gharti\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 18, 2025\n\n\nJiwan Gharti\n\n\n\n\n\n\nNo matching items"
+  }
+]
