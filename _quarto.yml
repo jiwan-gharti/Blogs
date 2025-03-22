@@ -5,6 +5,9 @@ project:
 website:
   title: "TechTonic Bytes with Jiwan"
   navbar:
+    search: true
+    pinned: true
+    background: primary
     right:
       - about.qmd
       - icon: github
@@ -20,6 +23,6 @@ format:
     theme:
       - darkly
     css: styles.css
-
+mainfont: "Rubik"
 
 

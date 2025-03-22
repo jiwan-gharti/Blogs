@@ -2,7 +2,8 @@
 title: "Er. Jiwan Gharti"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
+  image: my-image.jpeg
   links:
     - icon: twitter
       text: Twitter
@@ -16,4 +17,16 @@ about:
 
 ---
 
-Jiwan Gharti, a software engineer, decodes complex tech shifts through his blog TechTonic Bytes. Like tectonic plates transforming landscapes, Jiwan examines fundamental changes in programming and emerging technologies. He breaks down complex concepts into digestible "bytes" of knowledge, bridging theory with practical applications that readers can immediately implement in their work.
+​In my role as a Senior Backend Developer at AZminds, I spearheaded the development of a comprehensive waste management system. This platform streamlined waste tracking, reporting, and regulatory compliance, significantly enhancing operational efficiency. By integrating advanced features such as role-based access control, Google Maps API for precise navigation, and robust reporting capabilities, the system optimized waste management processes and reduced operational costs.​
+
+Additionally, I contributed to the creation of IP Author, an AI-driven patent drafting tool designed to expedite the patent application process. Leveraging generative AI technologies, IP Author swiftly generates essential patent components, including editable flowcharts and block diagrams, streamlining the drafting process and minimizing common pitfalls. This tool has been instrumental for patent law firms, enabling them to produce comprehensive drafts efficiently.
+
+## Work Experience
+
+**AZminds**  
+*Senior Backend Developer*  
+*Apr 2023 – Present*
+
+**Quickfox Consulting**  
+*Backend Developer*  
+*2021 – 2023*
