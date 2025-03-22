@@ -12,6 +12,8 @@ website:
         href: https://www.linkedin.com/in/jiwan-gharti/
       - icon: gear-fill
         href: https://linktr.ee/jiwangharti
+  site-url: "https://jiwan-gharti.github.io/blogs"
+  repo-url: "https://github.com/jiwan-gharti/blogs"
 format:
   html:
     theme:
